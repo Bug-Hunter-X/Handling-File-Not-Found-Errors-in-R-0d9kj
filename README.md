@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in R:  failure to gracefully handle cases where a specified file does not exist. The `bug.R` file shows the problematic code that throws an error when attempting to read a non-existent CSV.  `bugSolution.R` provides several ways to address this.
